@@ -28,6 +28,3 @@
         -Title and Description
         -Movie Suggestions
             -Movie Lists * n 
-- NetflixGPT
-    -search Bar
-    -Movie Suggestions
