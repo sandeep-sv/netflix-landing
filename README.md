@@ -1,4 +1,4 @@
-#netflix gpt
+#Netflix Landing Page
 
 - Create React App
 - Tailwind css
